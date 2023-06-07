@@ -40,7 +40,7 @@ const Header = () => {
 					<Navbar.Collapse className='justify-content-end'>
 						<Nav>
 							<img src={avatar} alt='avatar image' className='avatar' />
-							<Button variant='secondary'>Secondary</Button>
+							<Button variant='secondary'>Login</Button>
 						</Nav>
 					</Navbar.Collapse>
 				</Container>
